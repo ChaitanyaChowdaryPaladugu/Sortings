@@ -24,7 +24,7 @@ class Bubblesort
         System.out.println();
     }
  
-    // Driver method to test above
+    
     public static void main(String args[])
     {
         Bubblesort ob = new Bubblesort();
